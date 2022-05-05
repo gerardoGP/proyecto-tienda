@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color:#14145ee7;
+    color:white;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+    box-shadow: 20px black;
+}
+header nav{
+    display:flex;
+    padding-left:90px;
+}
+header nav li{
+    list-style: none;
+    padding:20px;
+}
+header nav li a{
+    text-decoration: none;
+    color:white;
+}
+header nav li a:hover{
+    color:#d9d9e250;
+    cursor: pointer;
+}
+marquee{
+    color: #dd2c2c;
+    font-size: 20px;
+}
+section{
+    border: solid;
+}
